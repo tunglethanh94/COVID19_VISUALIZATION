@@ -57,5 +57,6 @@ All visualizations follow a unified design: project color palette, 1200×600 px 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/covid19-viz.git
-cd covid19-viz
+git clone https://github.com/tunglethanh94/COVID19_VISUALIZATION.git
+
+cd COVID19_VISUALIZATION
